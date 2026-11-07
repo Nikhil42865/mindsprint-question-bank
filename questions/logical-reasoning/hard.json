@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "logic_hard_001",
+    "category": "logical-reasoning",
+    "topic": "logical-deduction",
+    "difficulty": "hard",
+    "question": "All poets are thinkers. No thinker is careless. What must be true about poets?",
+    "options": [
+      {
+        "id": "A",
+        "text": "All poets are careless"
+      },
+      {
+        "id": "B",
+        "text": "No poet is a thinker"
+      },
+      {
+        "id": "C",
+        "text": "No poet is careless"
+      },
+      {
+        "id": "D",
+        "text": "Some careless people are poets"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Poets are thinkers, and thinkers are not careless; therefore poets are not careless.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_002",
+    "category": "logical-reasoning",
+    "topic": "arrangement",
+    "difficulty": "hard",
+    "question": "Five people A, B, C, D, and E stand in a line. A is first, B is immediately before C, and D is immediately before E. Which pair occupies the final two positions if D is second?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A and D"
+      },
+      {
+        "id": "B",
+        "text": "B and C"
+      },
+      {
+        "id": "C",
+        "text": "C and E"
+      },
+      {
+        "id": "D",
+        "text": "D and E"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A is first and D-E occupy positions 2-3, leaving B-C in positions 4-5, the final two positions.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_003",
+    "category": "logical-reasoning",
+    "topic": "direction-sense",
+    "difficulty": "hard",
+    "question": "A person walks 5 km north, turns right for 4 km, then turns right for 5 km. Where is the person relative to the start?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 km east"
+      },
+      {
+        "id": "B",
+        "text": "4 km west"
+      },
+      {
+        "id": "C",
+        "text": "5 km north"
+      },
+      {
+        "id": "D",
+        "text": "At the starting point"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The north and south movements cancel; the person remains 4 km east of the start.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_004",
+    "category": "logical-reasoning",
+    "topic": "blood-relations",
+    "difficulty": "hard",
+    "question": "Nina is the daughter of Omar. Priya is Omar's sister. How is Priya related to Nina?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Cousin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Priya is the sister of Nina's father, so she is Nina's aunt.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_005",
+    "category": "logical-reasoning",
+    "topic": "coding-decoding",
+    "difficulty": "hard",
+    "question": "In a code, each word is reversed and then each letter is shifted one place forward. How is CAT coded?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UBD"
+      },
+      {
+        "id": "B",
+        "text": "DUB"
+      },
+      {
+        "id": "C",
+        "text": "UBC"
+      },
+      {
+        "id": "D",
+        "text": "TAC"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Reverse CAT to TAC, then shift each letter forward: T becomes U, A becomes B, C becomes D.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_006",
+    "category": "logical-reasoning",
+    "topic": "logical-deduction",
+    "difficulty": "hard",
+    "question": "Some books are novels. All novels are fiction. Which conclusion follows?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Some books are fiction"
+      },
+      {
+        "id": "B",
+        "text": "All books are fiction"
+      },
+      {
+        "id": "C",
+        "text": "No books are fiction"
+      },
+      {
+        "id": "D",
+        "text": "All fiction is novels"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The books that are novels are fiction, so some books are fiction.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_007",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which pair follows a different relationship: 2:8, 3:27, 4:64, 5:100?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:8"
+      },
+      {
+        "id": "B",
+        "text": "3:27"
+      },
+      {
+        "id": "C",
+        "text": "4:64"
+      },
+      {
+        "id": "D",
+        "text": "5:100"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "In the first three pairs the second number is the cube of the first; 5 cubed is 125, not 100.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_008",
+    "category": "logical-reasoning",
+    "topic": "arrangement",
+    "difficulty": "hard",
+    "question": "P is taller than Q, R is shorter than Q, and S is taller than P. Who is shortest?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P"
+      },
+      {
+        "id": "B",
+        "text": "Q"
+      },
+      {
+        "id": "C",
+        "text": "R"
+      },
+      {
+        "id": "D",
+        "text": "S"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The order from tallest to shortest is S, P, Q, R.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_009",
+    "category": "logical-reasoning",
+    "topic": "analogy",
+    "difficulty": "hard",
+    "question": "Architecture is to building as choreography is to what?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Music"
+      },
+      {
+        "id": "B",
+        "text": "Dance"
+      },
+      {
+        "id": "C",
+        "text": "Painting"
+      },
+      {
+        "id": "D",
+        "text": "Writing"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Architecture designs buildings; choreography designs dance movements.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_010",
+    "category": "logical-reasoning",
+    "topic": "direction-sense",
+    "difficulty": "hard",
+    "question": "A is east of B. C is north of A. D is west of C and directly north of B. Where is A relative to D?",
+    "options": [
+      {
+        "id": "A",
+        "text": "South-east"
+      },
+      {
+        "id": "B",
+        "text": "South-west"
+      },
+      {
+        "id": "C",
+        "text": "North-east"
+      },
+      {
+        "id": "D",
+        "text": "North-west"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using B as origin, A is east and D is north; A is therefore south-east of D.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_011",
+    "category": "logical-reasoning",
+    "topic": "direction-sense",
+    "difficulty": "hard",
+    "question": "A person faces west and turns left. Which direction is the person facing? (set logical-reasoning hard 11)",
+    "options": [
+      {
+        "id": "A",
+        "text": "North"
+      },
+      {
+        "id": "B",
+        "text": "South"
+      },
+      {
+        "id": "C",
+        "text": "East"
+      },
+      {
+        "id": "D",
+        "text": "West"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A left turn from west points south.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_012",
+    "category": "logical-reasoning",
+    "topic": "blood-relations",
+    "difficulty": "hard",
+    "question": "Rina is the daughter of Mohan. Mohan is the brother of Tara. How is Tara related to Rina? (set logical-reasoning hard 12)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Cousin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tara is the sister of Rina's father, so Tara is Rina's aunt.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_013",
+    "category": "logical-reasoning",
+    "topic": "logical-deduction",
+    "difficulty": "hard",
+    "question": "All metals conduct electricity. Copper is a metal. What must be true? (set logical-reasoning hard 13)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Copper conducts electricity"
+      },
+      {
+        "id": "B",
+        "text": "All conductors are copper"
+      },
+      {
+        "id": "C",
+        "text": "Copper is not a metal"
+      },
+      {
+        "id": "D",
+        "text": "No metal conducts electricity"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Copper belongs to the class of metals, so it has the stated property.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_014",
+    "category": "logical-reasoning",
+    "topic": "arrangement",
+    "difficulty": "hard",
+    "question": "A is before B, and B is before C in a line. Who is last? (set logical-reasoning hard 14)",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "B"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      },
+      {
+        "id": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The order is A, B, C, so C is last.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_015",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which word does not belong: red, blue, green, circle? (set logical-reasoning hard 15)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Red"
+      },
+      {
+        "id": "B",
+        "text": "Blue"
+      },
+      {
+        "id": "C",
+        "text": "Green"
+      },
+      {
+        "id": "D",
+        "text": "Circle"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three are colors; circle is a shape.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_016",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which number is different: 18, 20, 22, 25? (set logical-reasoning hard 16)",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "22"
+      },
+      {
+        "id": "D",
+        "text": "25"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three numbers have the same even/odd status; the final number has the opposite status.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_017",
+    "category": "logical-reasoning",
+    "topic": "analogy",
+    "difficulty": "hard",
+    "question": "Bird is to nest as bee is to what? (set logical-reasoning hard 17)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hive"
+      },
+      {
+        "id": "B",
+        "text": "Web"
+      },
+      {
+        "id": "C",
+        "text": "Burrow"
+      },
+      {
+        "id": "D",
+        "text": "Den"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A nest is the home of a bird; a hive is the home of a bee.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_018",
+    "category": "logical-reasoning",
+    "topic": "coding-decoding",
+    "difficulty": "hard",
+    "question": "If S is coded as T, how is U coded using the same rule? (set logical-reasoning hard 18)",
+    "options": [
+      {
+        "id": "A",
+        "text": "T"
+      },
+      {
+        "id": "B",
+        "text": "U"
+      },
+      {
+        "id": "C",
+        "text": "V"
+      },
+      {
+        "id": "D",
+        "text": "S"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The code moves each letter one place forward, so the input letter advances by one.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_019",
+    "category": "logical-reasoning",
+    "topic": "direction-sense",
+    "difficulty": "hard",
+    "question": "A person faces west and turns left. Which direction is the person facing? (generated variation 19) (set logical-reasoning hard 19)",
+    "options": [
+      {
+        "id": "A",
+        "text": "North"
+      },
+      {
+        "id": "B",
+        "text": "South"
+      },
+      {
+        "id": "C",
+        "text": "East"
+      },
+      {
+        "id": "D",
+        "text": "West"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A left turn from west points south.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_020",
+    "category": "logical-reasoning",
+    "topic": "blood-relations",
+    "difficulty": "hard",
+    "question": "Rina is the daughter of Mohan. Mohan is the brother of Tara. How is Tara related to Rina? (generated variation 20) (set logical-reasoning hard 20)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Cousin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tara is the sister of Rina's father, so Tara is Rina's aunt.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_021",
+    "category": "logical-reasoning",
+    "topic": "logical-deduction",
+    "difficulty": "hard",
+    "question": "All metals conduct electricity. Copper is a metal. What must be true? (generated variation 21) (set logical-reasoning hard 21)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Copper conducts electricity"
+      },
+      {
+        "id": "B",
+        "text": "All conductors are copper"
+      },
+      {
+        "id": "C",
+        "text": "Copper is not a metal"
+      },
+      {
+        "id": "D",
+        "text": "No metal conducts electricity"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Copper belongs to the class of metals, so it has the stated property.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_022",
+    "category": "logical-reasoning",
+    "topic": "arrangement",
+    "difficulty": "hard",
+    "question": "A is before B, and B is before C in a line. Who is last? (generated variation 22) (set logical-reasoning hard 22)",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "B"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      },
+      {
+        "id": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The order is A, B, C, so C is last.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_023",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which word does not belong: red, blue, green, circle? (generated variation 23) (set logical-reasoning hard 23)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Red"
+      },
+      {
+        "id": "B",
+        "text": "Blue"
+      },
+      {
+        "id": "C",
+        "text": "Green"
+      },
+      {
+        "id": "D",
+        "text": "Circle"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three are colors; circle is a shape.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_024",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which number is different: 26, 28, 30, 33? (set logical-reasoning hard 24)",
+    "options": [
+      {
+        "id": "A",
+        "text": "26"
+      },
+      {
+        "id": "B",
+        "text": "28"
+      },
+      {
+        "id": "C",
+        "text": "30"
+      },
+      {
+        "id": "D",
+        "text": "33"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three numbers have the same even/odd status; the final number has the opposite status.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_025",
+    "category": "logical-reasoning",
+    "topic": "analogy",
+    "difficulty": "hard",
+    "question": "Bird is to nest as bee is to what? (generated variation 25) (set logical-reasoning hard 25)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hive"
+      },
+      {
+        "id": "B",
+        "text": "Web"
+      },
+      {
+        "id": "C",
+        "text": "Burrow"
+      },
+      {
+        "id": "D",
+        "text": "Den"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A nest is the home of a bird; a hive is the home of a bee.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_026",
+    "category": "logical-reasoning",
+    "topic": "coding-decoding",
+    "difficulty": "hard",
+    "question": "If G is coded as H, how is I coded using the same rule? (set logical-reasoning hard 26)",
+    "options": [
+      {
+        "id": "A",
+        "text": "H"
+      },
+      {
+        "id": "B",
+        "text": "I"
+      },
+      {
+        "id": "C",
+        "text": "J"
+      },
+      {
+        "id": "D",
+        "text": "G"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The code moves each letter one place forward, so the input letter advances by one.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_027",
+    "category": "logical-reasoning",
+    "topic": "direction-sense",
+    "difficulty": "hard",
+    "question": "A person faces west and turns left. Which direction is the person facing? (generated variation 27) (set logical-reasoning hard 27)",
+    "options": [
+      {
+        "id": "A",
+        "text": "North"
+      },
+      {
+        "id": "B",
+        "text": "South"
+      },
+      {
+        "id": "C",
+        "text": "East"
+      },
+      {
+        "id": "D",
+        "text": "West"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A left turn from west points south.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_028",
+    "category": "logical-reasoning",
+    "topic": "blood-relations",
+    "difficulty": "hard",
+    "question": "Rina is the daughter of Mohan. Mohan is the brother of Tara. How is Tara related to Rina? (generated variation 28) (set logical-reasoning hard 28)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Cousin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tara is the sister of Rina's father, so Tara is Rina's aunt.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_029",
+    "category": "logical-reasoning",
+    "topic": "logical-deduction",
+    "difficulty": "hard",
+    "question": "All metals conduct electricity. Copper is a metal. What must be true? (generated variation 29) (set logical-reasoning hard 29)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Copper conducts electricity"
+      },
+      {
+        "id": "B",
+        "text": "All conductors are copper"
+      },
+      {
+        "id": "C",
+        "text": "Copper is not a metal"
+      },
+      {
+        "id": "D",
+        "text": "No metal conducts electricity"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Copper belongs to the class of metals, so it has the stated property.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_030",
+    "category": "logical-reasoning",
+    "topic": "arrangement",
+    "difficulty": "hard",
+    "question": "A is before B, and B is before C in a line. Who is last? (generated variation 30) (set logical-reasoning hard 30)",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "B"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      },
+      {
+        "id": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The order is A, B, C, so C is last.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_031",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which word does not belong: red, blue, green, circle? (generated variation 31) (set logical-reasoning hard 31)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Red"
+      },
+      {
+        "id": "B",
+        "text": "Blue"
+      },
+      {
+        "id": "C",
+        "text": "Green"
+      },
+      {
+        "id": "D",
+        "text": "Circle"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three are colors; circle is a shape.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_032",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which number is different: 34, 36, 38, 41? (set logical-reasoning hard 32)",
+    "options": [
+      {
+        "id": "A",
+        "text": "34"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "38"
+      },
+      {
+        "id": "D",
+        "text": "41"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three numbers have the same even/odd status; the final number has the opposite status.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_033",
+    "category": "logical-reasoning",
+    "topic": "analogy",
+    "difficulty": "hard",
+    "question": "Bird is to nest as bee is to what? (generated variation 33) (set logical-reasoning hard 33)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hive"
+      },
+      {
+        "id": "B",
+        "text": "Web"
+      },
+      {
+        "id": "C",
+        "text": "Burrow"
+      },
+      {
+        "id": "D",
+        "text": "Den"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A nest is the home of a bird; a hive is the home of a bee.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_034",
+    "category": "logical-reasoning",
+    "topic": "coding-decoding",
+    "difficulty": "hard",
+    "question": "If O is coded as P, how is Q coded using the same rule? (set logical-reasoning hard 34)",
+    "options": [
+      {
+        "id": "A",
+        "text": "P"
+      },
+      {
+        "id": "B",
+        "text": "Q"
+      },
+      {
+        "id": "C",
+        "text": "R"
+      },
+      {
+        "id": "D",
+        "text": "O"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The code moves each letter one place forward, so the input letter advances by one.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_035",
+    "category": "logical-reasoning",
+    "topic": "direction-sense",
+    "difficulty": "hard",
+    "question": "A person faces west and turns left. Which direction is the person facing? (generated variation 35) (set logical-reasoning hard 35)",
+    "options": [
+      {
+        "id": "A",
+        "text": "North"
+      },
+      {
+        "id": "B",
+        "text": "South"
+      },
+      {
+        "id": "C",
+        "text": "East"
+      },
+      {
+        "id": "D",
+        "text": "West"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A left turn from west points south.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_036",
+    "category": "logical-reasoning",
+    "topic": "blood-relations",
+    "difficulty": "hard",
+    "question": "Rina is the daughter of Mohan. Mohan is the brother of Tara. How is Tara related to Rina? (generated variation 36) (set logical-reasoning hard 36)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Cousin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tara is the sister of Rina's father, so Tara is Rina's aunt.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_037",
+    "category": "logical-reasoning",
+    "topic": "logical-deduction",
+    "difficulty": "hard",
+    "question": "All metals conduct electricity. Copper is a metal. What must be true? (generated variation 37) (set logical-reasoning hard 37)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Copper conducts electricity"
+      },
+      {
+        "id": "B",
+        "text": "All conductors are copper"
+      },
+      {
+        "id": "C",
+        "text": "Copper is not a metal"
+      },
+      {
+        "id": "D",
+        "text": "No metal conducts electricity"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Copper belongs to the class of metals, so it has the stated property.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_038",
+    "category": "logical-reasoning",
+    "topic": "arrangement",
+    "difficulty": "hard",
+    "question": "A is before B, and B is before C in a line. Who is last? (generated variation 38) (set logical-reasoning hard 38)",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "B"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      },
+      {
+        "id": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The order is A, B, C, so C is last.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_039",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which word does not belong: red, blue, green, circle? (generated variation 39) (set logical-reasoning hard 39)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Red"
+      },
+      {
+        "id": "B",
+        "text": "Blue"
+      },
+      {
+        "id": "C",
+        "text": "Green"
+      },
+      {
+        "id": "D",
+        "text": "Circle"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three are colors; circle is a shape.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_040",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which number is different: 42, 44, 46, 49? (set logical-reasoning hard 40)",
+    "options": [
+      {
+        "id": "A",
+        "text": "42"
+      },
+      {
+        "id": "B",
+        "text": "44"
+      },
+      {
+        "id": "C",
+        "text": "46"
+      },
+      {
+        "id": "D",
+        "text": "49"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three numbers have the same even/odd status; the final number has the opposite status.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_041",
+    "category": "logical-reasoning",
+    "topic": "analogy",
+    "difficulty": "hard",
+    "question": "Bird is to nest as bee is to what? (generated variation 41) (set logical-reasoning hard 41)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hive"
+      },
+      {
+        "id": "B",
+        "text": "Web"
+      },
+      {
+        "id": "C",
+        "text": "Burrow"
+      },
+      {
+        "id": "D",
+        "text": "Den"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A nest is the home of a bird; a hive is the home of a bee.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_042",
+    "category": "logical-reasoning",
+    "topic": "coding-decoding",
+    "difficulty": "hard",
+    "question": "If C is coded as D, how is E coded using the same rule? (set logical-reasoning hard 42)",
+    "options": [
+      {
+        "id": "A",
+        "text": "D"
+      },
+      {
+        "id": "B",
+        "text": "E"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "C"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The code moves each letter one place forward, so the input letter advances by one.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_043",
+    "category": "logical-reasoning",
+    "topic": "direction-sense",
+    "difficulty": "hard",
+    "question": "A person faces west and turns left. Which direction is the person facing? (generated variation 43) (set logical-reasoning hard 43)",
+    "options": [
+      {
+        "id": "A",
+        "text": "North"
+      },
+      {
+        "id": "B",
+        "text": "South"
+      },
+      {
+        "id": "C",
+        "text": "East"
+      },
+      {
+        "id": "D",
+        "text": "West"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A left turn from west points south.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_044",
+    "category": "logical-reasoning",
+    "topic": "blood-relations",
+    "difficulty": "hard",
+    "question": "Rina is the daughter of Mohan. Mohan is the brother of Tara. How is Tara related to Rina? (generated variation 44) (set logical-reasoning hard 44)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Cousin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tara is the sister of Rina's father, so Tara is Rina's aunt.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_045",
+    "category": "logical-reasoning",
+    "topic": "logical-deduction",
+    "difficulty": "hard",
+    "question": "All metals conduct electricity. Copper is a metal. What must be true? (generated variation 45) (set logical-reasoning hard 45)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Copper conducts electricity"
+      },
+      {
+        "id": "B",
+        "text": "All conductors are copper"
+      },
+      {
+        "id": "C",
+        "text": "Copper is not a metal"
+      },
+      {
+        "id": "D",
+        "text": "No metal conducts electricity"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Copper belongs to the class of metals, so it has the stated property.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_046",
+    "category": "logical-reasoning",
+    "topic": "arrangement",
+    "difficulty": "hard",
+    "question": "A is before B, and B is before C in a line. Who is last? (generated variation 46) (set logical-reasoning hard 46)",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "B"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      },
+      {
+        "id": "D",
+        "text": "Cannot determine"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The order is A, B, C, so C is last.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_047",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which word does not belong: red, blue, green, circle? (generated variation 47) (set logical-reasoning hard 47)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Red"
+      },
+      {
+        "id": "B",
+        "text": "Blue"
+      },
+      {
+        "id": "C",
+        "text": "Green"
+      },
+      {
+        "id": "D",
+        "text": "Circle"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three are colors; circle is a shape.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_048",
+    "category": "logical-reasoning",
+    "topic": "classification",
+    "difficulty": "hard",
+    "question": "Which number is different: 50, 52, 54, 57? (set logical-reasoning hard 48)",
+    "options": [
+      {
+        "id": "A",
+        "text": "50"
+      },
+      {
+        "id": "B",
+        "text": "52"
+      },
+      {
+        "id": "C",
+        "text": "54"
+      },
+      {
+        "id": "D",
+        "text": "57"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The first three numbers have the same even/odd status; the final number has the opposite status.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_049",
+    "category": "logical-reasoning",
+    "topic": "analogy",
+    "difficulty": "hard",
+    "question": "Bird is to nest as bee is to what? (generated variation 49) (set logical-reasoning hard 49)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hive"
+      },
+      {
+        "id": "B",
+        "text": "Web"
+      },
+      {
+        "id": "C",
+        "text": "Burrow"
+      },
+      {
+        "id": "D",
+        "text": "Den"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A nest is the home of a bird; a hive is the home of a bee.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "logic_hard_050",
+    "category": "logical-reasoning",
+    "topic": "coding-decoding",
+    "difficulty": "hard",
+    "question": "If K is coded as L, how is M coded using the same rule? (set logical-reasoning hard 50)",
+    "options": [
+      {
+        "id": "A",
+        "text": "L"
+      },
+      {
+        "id": "B",
+        "text": "M"
+      },
+      {
+        "id": "C",
+        "text": "N"
+      },
+      {
+        "id": "D",
+        "text": "K"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The code moves each letter one place forward, so the input letter advances by one.",
+    "source": "generated",
+    "verified": true
+  }
+]

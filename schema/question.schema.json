@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mindsprint.example/schemas/question.schema.json",
+  "title": "MindSprint Question",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "category",
+    "topic",
+    "difficulty",
+    "question",
+    "options",
+    "correctAnswer",
+    "explanation",
+    "source",
+    "verified"
+  ],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "category": {
+      "type": "string",
+      "enum": [
+        "mental-maths",
+        "number-series",
+        "logical-reasoning",
+        "quantitative-aptitude"
+      ]
+    },
+    "topic": { "type": "string", "minLength": 1 },
+    "difficulty": {
+      "type": "string",
+      "enum": ["easy", "medium", "hard"]
+    },
+    "question": { "type": "string", "minLength": 1 },
+    "options": {
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "text"],
+        "properties": {
+          "id": { "type": "string", "enum": ["A", "B", "C", "D"] },
+          "text": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "correctAnswer": {
+      "type": "string",
+      "enum": ["A", "B", "C", "D"]
+    },
+    "explanation": { "type": "string", "minLength": 1 },
+    "source": { "const": "generated" },
+    "verified": { "const": true }
+  }
+}

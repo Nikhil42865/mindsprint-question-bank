@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "math_medium_001",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "medium",
+    "question": "What is 15% of 240?",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "36"
+      },
+      {
+        "id": "D",
+        "text": "40"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "10% of 240 is 24 and 5% is 12, giving 36.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_002",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 7/8 of 64?",
+    "options": [
+      {
+        "id": "A",
+        "text": "48"
+      },
+      {
+        "id": "B",
+        "text": "52"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "64 / 8 = 8, and 8 x 7 = 56.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_003",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "medium",
+    "question": "A sum is divided in the ratio 3:5. If the total is 64, what is the larger share?",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "32"
+      },
+      {
+        "id": "C",
+        "text": "40"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "There are 8 parts, so each part is 64 / 8 = 8; the larger share is 5 x 8 = 40.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_004",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "medium",
+    "question": "What is 125 x 16?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1500"
+      },
+      {
+        "id": "B",
+        "text": "1750"
+      },
+      {
+        "id": "C",
+        "text": "2000"
+      },
+      {
+        "id": "D",
+        "text": "2250"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "125 x 8 = 1000, so doubling gives 125 x 16 = 2000.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_005",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "medium",
+    "question": "What is 2,304 / 16?",
+    "options": [
+      {
+        "id": "A",
+        "text": "124"
+      },
+      {
+        "id": "B",
+        "text": "134"
+      },
+      {
+        "id": "C",
+        "text": "144"
+      },
+      {
+        "id": "D",
+        "text": "154"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "16 x 144 = 2,304.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_006",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "medium",
+    "question": "What is 35 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1,125"
+      },
+      {
+        "id": "B",
+        "text": "1,225"
+      },
+      {
+        "id": "C",
+        "text": "1,325"
+      },
+      {
+        "id": "D",
+        "text": "1,425"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "35 squared = (30 + 5) squared = 900 + 300 + 25 = 1,225.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_007",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "medium",
+    "question": "What is 999 + 678?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1,677"
+      },
+      {
+        "id": "B",
+        "text": "1,687"
+      },
+      {
+        "id": "C",
+        "text": "1,697"
+      },
+      {
+        "id": "D",
+        "text": "1,777"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "999 + 678 = 1,000 + 678 - 1 = 1,677.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_008",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 400 and is sold at a 15% profit. What is its selling price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "440"
+      },
+      {
+        "id": "B",
+        "text": "450"
+      },
+      {
+        "id": "C",
+        "text": "460"
+      },
+      {
+        "id": "D",
+        "text": "480"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "15% of 400 is 60, so the selling price is 400 + 60 = 460.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_009",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "medium",
+    "question": "What is 12 cubed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1,248"
+      },
+      {
+        "id": "B",
+        "text": "1,628"
+      },
+      {
+        "id": "C",
+        "text": "1,728"
+      },
+      {
+        "id": "D",
+        "text": "1,828"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "12 x 12 x 12 = 144 x 12 = 1,728.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_010",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 5/6 of 180?",
+    "options": [
+      {
+        "id": "A",
+        "text": "120"
+      },
+      {
+        "id": "B",
+        "text": "135"
+      },
+      {
+        "id": "C",
+        "text": "150"
+      },
+      {
+        "id": "D",
+        "text": "165"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "180 / 6 = 30, and 30 x 5 = 150.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_011",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "medium",
+    "question": "Two quantities are in ratio 4:8. If the first is 36, find the second.",
+    "options": [
+      {
+        "id": "A",
+        "text": "86"
+      },
+      {
+        "id": "B",
+        "text": "72"
+      },
+      {
+        "id": "C",
+        "text": "79"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The scale is 9; 8 x 9 = 72.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_012",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "medium",
+    "question": "What is 37 x 16?",
+    "options": [
+      {
+        "id": "A",
+        "text": "592"
+      },
+      {
+        "id": "B",
+        "text": "651"
+      },
+      {
+        "id": "C",
+        "text": "533"
+      },
+      {
+        "id": "D",
+        "text": "710"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiplying 37 by 16 gives 592.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_013",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "medium",
+    "question": "What is 304 / 16?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "17"
+      },
+      {
+        "id": "C",
+        "text": "23"
+      },
+      {
+        "id": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "16 x 19 = 304.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_014",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "medium",
+    "question": "What is 39 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1369"
+      },
+      {
+        "id": "B",
+        "text": "1825"
+      },
+      {
+        "id": "C",
+        "text": "1521"
+      },
+      {
+        "id": "D",
+        "text": "1673"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Using 39 x 39, the result is 1521.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_015",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "medium",
+    "question": "What is 505 - 320?",
+    "options": [
+      {
+        "id": "A",
+        "text": "223"
+      },
+      {
+        "id": "B",
+        "text": "185"
+      },
+      {
+        "id": "C",
+        "text": "204"
+      },
+      {
+        "id": "D",
+        "text": "166"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "505 - 320 = 185.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_016",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 378 and is sold at a 10% profit. Find its selling price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "415.8"
+      },
+      {
+        "id": "B",
+        "text": "457.8"
+      },
+      {
+        "id": "C",
+        "text": "373.8"
+      },
+      {
+        "id": "D",
+        "text": "499.8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Profit is 37.8; selling price is 415.8.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_017",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "medium",
+    "question": "What is 16 cubed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4506"
+      },
+      {
+        "id": "B",
+        "text": "3686"
+      },
+      {
+        "id": "C",
+        "text": "4916"
+      },
+      {
+        "id": "D",
+        "text": "4096"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "16 cubed equals 4096.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_018",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "medium",
+    "question": "What is 12% of 360?",
+    "options": [
+      {
+        "id": "A",
+        "text": "39.2"
+      },
+      {
+        "id": "B",
+        "text": "51.2"
+      },
+      {
+        "id": "C",
+        "text": "43.2"
+      },
+      {
+        "id": "D",
+        "text": "47.2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Calculating 360 x 12 / 100 gives 43.2.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_019",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 7/8 of 104?",
+    "options": [
+      {
+        "id": "A",
+        "text": "109"
+      },
+      {
+        "id": "B",
+        "text": "91"
+      },
+      {
+        "id": "C",
+        "text": "100"
+      },
+      {
+        "id": "D",
+        "text": "82"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "104 / 8 = 13; subtracting from 104 gives 91.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_020",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "medium",
+    "question": "Two quantities are in ratio 3:5. If the first is 18, find the second.",
+    "options": [
+      {
+        "id": "A",
+        "text": "30"
+      },
+      {
+        "id": "B",
+        "text": "33"
+      },
+      {
+        "id": "C",
+        "text": "27"
+      },
+      {
+        "id": "D",
+        "text": "36"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The scale is 6; 5 x 6 = 30.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_021",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "medium",
+    "question": "What is 31 x 25?",
+    "options": [
+      {
+        "id": "A",
+        "text": "853"
+      },
+      {
+        "id": "B",
+        "text": "697"
+      },
+      {
+        "id": "C",
+        "text": "931"
+      },
+      {
+        "id": "D",
+        "text": "775"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Multiplying 31 by 25 gives 775.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_022",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "medium",
+    "question": "What is 448 / 16?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25"
+      },
+      {
+        "id": "B",
+        "text": "34"
+      },
+      {
+        "id": "C",
+        "text": "28"
+      },
+      {
+        "id": "D",
+        "text": "31"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "16 x 28 = 448.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_023",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "medium",
+    "question": "What is 48 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2764"
+      },
+      {
+        "id": "B",
+        "text": "2304"
+      },
+      {
+        "id": "C",
+        "text": "2534"
+      },
+      {
+        "id": "D",
+        "text": "2074"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Using 48 x 48, the result is 2304.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_024",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "medium",
+    "question": "What is 568 - 347?",
+    "options": [
+      {
+        "id": "A",
+        "text": "221"
+      },
+      {
+        "id": "B",
+        "text": "243"
+      },
+      {
+        "id": "C",
+        "text": "199"
+      },
+      {
+        "id": "D",
+        "text": "265"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "568 - 347 = 221.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_025",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 450 and is sold at a 11% profit. Find its selling price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "549.5"
+      },
+      {
+        "id": "B",
+        "text": "449.5"
+      },
+      {
+        "id": "C",
+        "text": "599.5"
+      },
+      {
+        "id": "D",
+        "text": "499.5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Profit is 49.5; selling price is 499.5.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_026",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "medium",
+    "question": "What is 16 cubed? (generated variation 26)",
+    "options": [
+      {
+        "id": "A",
+        "text": "3686"
+      },
+      {
+        "id": "B",
+        "text": "4916"
+      },
+      {
+        "id": "C",
+        "text": "4096"
+      },
+      {
+        "id": "D",
+        "text": "4506"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "16 cubed equals 4096.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_027",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "medium",
+    "question": "What is 12% of 440?",
+    "options": [
+      {
+        "id": "A",
+        "text": "62.8"
+      },
+      {
+        "id": "B",
+        "text": "52.8"
+      },
+      {
+        "id": "C",
+        "text": "57.8"
+      },
+      {
+        "id": "D",
+        "text": "47.8"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Calculating 440 x 12 / 100 gives 52.8.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_028",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 4/5 of 65?",
+    "options": [
+      {
+        "id": "A",
+        "text": "52"
+      },
+      {
+        "id": "B",
+        "text": "57"
+      },
+      {
+        "id": "C",
+        "text": "47"
+      },
+      {
+        "id": "D",
+        "text": "62"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "65 / 5 = 13; subtracting from 65 gives 52.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_029",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "medium",
+    "question": "Two quantities are in ratio 7:6. If the first is 63, find the second.",
+    "options": [
+      {
+        "id": "A",
+        "text": "59"
+      },
+      {
+        "id": "B",
+        "text": "49"
+      },
+      {
+        "id": "C",
+        "text": "64"
+      },
+      {
+        "id": "D",
+        "text": "54"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The scale is 9; 6 x 9 = 54.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_030",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "medium",
+    "question": "What is 25 x 22?",
+    "options": [
+      {
+        "id": "A",
+        "text": "495"
+      },
+      {
+        "id": "B",
+        "text": "660"
+      },
+      {
+        "id": "C",
+        "text": "550"
+      },
+      {
+        "id": "D",
+        "text": "605"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Multiplying 25 by 22 gives 550.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_031",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "medium",
+    "question": "What is 400 / 16?",
+    "options": [
+      {
+        "id": "A",
+        "text": "31"
+      },
+      {
+        "id": "B",
+        "text": "25"
+      },
+      {
+        "id": "C",
+        "text": "28"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "16 x 25 = 400.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_032",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "medium",
+    "question": "What is 31 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "961"
+      },
+      {
+        "id": "B",
+        "text": "1057"
+      },
+      {
+        "id": "C",
+        "text": "865"
+      },
+      {
+        "id": "D",
+        "text": "1153"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using 31 x 31, the result is 961.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_033",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "medium",
+    "question": "What is 631 - 374?",
+    "options": [
+      {
+        "id": "A",
+        "text": "283"
+      },
+      {
+        "id": "B",
+        "text": "231"
+      },
+      {
+        "id": "C",
+        "text": "309"
+      },
+      {
+        "id": "D",
+        "text": "257"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "631 - 374 = 257.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_034",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 522 and is sold at a 12% profit. Find its selling price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "526.64"
+      },
+      {
+        "id": "B",
+        "text": "700.64"
+      },
+      {
+        "id": "C",
+        "text": "584.64"
+      },
+      {
+        "id": "D",
+        "text": "642.64"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Profit is 62.64; selling price is 584.64.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_035",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "medium",
+    "question": "What is 16 cubed? (generated variation 35)",
+    "options": [
+      {
+        "id": "A",
+        "text": "4916"
+      },
+      {
+        "id": "B",
+        "text": "4096"
+      },
+      {
+        "id": "C",
+        "text": "4506"
+      },
+      {
+        "id": "D",
+        "text": "3686"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "16 cubed equals 4096.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_036",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "medium",
+    "question": "What is 12% of 240?",
+    "options": [
+      {
+        "id": "A",
+        "text": "28.8"
+      },
+      {
+        "id": "B",
+        "text": "31.8"
+      },
+      {
+        "id": "C",
+        "text": "25.8"
+      },
+      {
+        "id": "D",
+        "text": "34.8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Calculating 240 x 12 / 100 gives 28.8.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_037",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 5/6 of 78?",
+    "options": [
+      {
+        "id": "A",
+        "text": "72"
+      },
+      {
+        "id": "B",
+        "text": "58"
+      },
+      {
+        "id": "C",
+        "text": "79"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "78 / 6 = 13; subtracting from 78 gives 65.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_038",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "medium",
+    "question": "Two quantities are in ratio 6:7. If the first is 36, find the second.",
+    "options": [
+      {
+        "id": "A",
+        "text": "38"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "42"
+      },
+      {
+        "id": "D",
+        "text": "46"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The scale is 6; 7 x 6 = 42.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_039",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "medium",
+    "question": "What is 34 x 19?",
+    "options": [
+      {
+        "id": "A",
+        "text": "776"
+      },
+      {
+        "id": "B",
+        "text": "646"
+      },
+      {
+        "id": "C",
+        "text": "711"
+      },
+      {
+        "id": "D",
+        "text": "581"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Multiplying 34 by 19 gives 646.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_040",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "medium",
+    "question": "What is 352 / 16?",
+    "options": [
+      {
+        "id": "A",
+        "text": "22"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "26"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "16 x 22 = 352.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_041",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "medium",
+    "question": "What is 40 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1760"
+      },
+      {
+        "id": "B",
+        "text": "1440"
+      },
+      {
+        "id": "C",
+        "text": "1920"
+      },
+      {
+        "id": "D",
+        "text": "1600"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Using 40 x 40, the result is 1600.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_042",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "medium",
+    "question": "What is 694 - 401?",
+    "options": [
+      {
+        "id": "A",
+        "text": "264"
+      },
+      {
+        "id": "B",
+        "text": "351"
+      },
+      {
+        "id": "C",
+        "text": "293"
+      },
+      {
+        "id": "D",
+        "text": "322"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "694 - 401 = 293.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_043",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 594 and is sold at a 13% profit. Find its selling price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "805.22"
+      },
+      {
+        "id": "B",
+        "text": "671.22"
+      },
+      {
+        "id": "C",
+        "text": "738.22"
+      },
+      {
+        "id": "D",
+        "text": "604.22"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Profit is 77.22; selling price is 671.22.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_044",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "medium",
+    "question": "What is 16 cubed? (generated variation 44)",
+    "options": [
+      {
+        "id": "A",
+        "text": "4096"
+      },
+      {
+        "id": "B",
+        "text": "4506"
+      },
+      {
+        "id": "C",
+        "text": "3686"
+      },
+      {
+        "id": "D",
+        "text": "4916"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "16 cubed equals 4096.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_045",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "medium",
+    "question": "What is 12% of 320?",
+    "options": [
+      {
+        "id": "A",
+        "text": "42.4"
+      },
+      {
+        "id": "B",
+        "text": "34.4"
+      },
+      {
+        "id": "C",
+        "text": "46.4"
+      },
+      {
+        "id": "D",
+        "text": "38.4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Calculating 320 x 12 / 100 gives 38.4.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_046",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "medium",
+    "question": "What is 6/7 of 91?",
+    "options": [
+      {
+        "id": "A",
+        "text": "70"
+      },
+      {
+        "id": "B",
+        "text": "94"
+      },
+      {
+        "id": "C",
+        "text": "78"
+      },
+      {
+        "id": "D",
+        "text": "86"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "91 / 7 = 13; subtracting from 91 gives 78.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_047",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "medium",
+    "question": "Two quantities are in ratio 5:8. If the first is 45, find the second.",
+    "options": [
+      {
+        "id": "A",
+        "text": "86"
+      },
+      {
+        "id": "B",
+        "text": "72"
+      },
+      {
+        "id": "C",
+        "text": "79"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The scale is 9; 8 x 9 = 72.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_048",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "medium",
+    "question": "What is 28 x 16?",
+    "options": [
+      {
+        "id": "A",
+        "text": "448"
+      },
+      {
+        "id": "B",
+        "text": "493"
+      },
+      {
+        "id": "C",
+        "text": "403"
+      },
+      {
+        "id": "D",
+        "text": "538"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Multiplying 28 by 16 gives 448.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_049",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "medium",
+    "question": "What is 304 / 16? (generated variation 49)",
+    "options": [
+      {
+        "id": "A",
+        "text": "21"
+      },
+      {
+        "id": "B",
+        "text": "17"
+      },
+      {
+        "id": "C",
+        "text": "23"
+      },
+      {
+        "id": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "16 x 19 = 304.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_medium_050",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "medium",
+    "question": "What is 49 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2161"
+      },
+      {
+        "id": "B",
+        "text": "2881"
+      },
+      {
+        "id": "C",
+        "text": "2401"
+      },
+      {
+        "id": "D",
+        "text": "2641"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Using 49 x 49, the result is 2401.",
+    "source": "generated",
+    "verified": true
+  }
+]

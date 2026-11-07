@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "math_hard_001",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "hard",
+    "question": "A price is increased by 20% and then decreased by 20%. What is the net percentage change?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0%"
+      },
+      {
+        "id": "B",
+        "text": "4% decrease"
+      },
+      {
+        "id": "C",
+        "text": "4% increase"
+      },
+      {
+        "id": "D",
+        "text": "8% decrease"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Using 100 as the starting price gives 120 x 0.8 = 96, a 4% decrease.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_002",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 3/4 divided by 5/8?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3/5"
+      },
+      {
+        "id": "B",
+        "text": "5/6"
+      },
+      {
+        "id": "C",
+        "text": "6/5"
+      },
+      {
+        "id": "D",
+        "text": "15/32"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "3/4 x 8/5 = 24/20 = 6/5.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_003",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "hard",
+    "question": "If a:b = 4:7 and b:c = 14:15, what is a:c?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:15"
+      },
+      {
+        "id": "B",
+        "text": "8:15"
+      },
+      {
+        "id": "C",
+        "text": "14:15"
+      },
+      {
+        "id": "D",
+        "text": "8:21"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Scale 4:7 to 8:14; combining with 14:15 gives a:c = 8:15.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_004",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 999 x 999?",
+    "options": [
+      {
+        "id": "A",
+        "text": "998,001"
+      },
+      {
+        "id": "B",
+        "text": "998,999"
+      },
+      {
+        "id": "C",
+        "text": "999,001"
+      },
+      {
+        "id": "D",
+        "text": "999,999"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "999 squared = (1,000 - 1) squared = 1,000,000 - 2,000 + 1 = 998,001.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_005",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 7,500 / 0.25?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1,875"
+      },
+      {
+        "id": "B",
+        "text": "3,000"
+      },
+      {
+        "id": "C",
+        "text": "30,000"
+      },
+      {
+        "id": "D",
+        "text": "300,000"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Dividing by 0.25 is multiplying by 4, so 7,500 x 4 = 30,000.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_006",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What is 98 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9,404"
+      },
+      {
+        "id": "B",
+        "text": "9,504"
+      },
+      {
+        "id": "C",
+        "text": "9,604"
+      },
+      {
+        "id": "D",
+        "text": "9,804"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "98 squared = (100 - 2) squared = 10,000 - 400 + 4 = 9,604.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_007",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "hard",
+    "question": "What is 48 x 25 + 52 x 25?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2,000"
+      },
+      {
+        "id": "B",
+        "text": "2,250"
+      },
+      {
+        "id": "C",
+        "text": "2,500"
+      },
+      {
+        "id": "D",
+        "text": "2,750"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Factor 25: (48 + 52) x 25 = 100 x 25 = 2,500.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_008",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "hard",
+    "question": "An item sold for 540 gives a 10% loss. What was its cost price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "580"
+      },
+      {
+        "id": "B",
+        "text": "600"
+      },
+      {
+        "id": "C",
+        "text": "620"
+      },
+      {
+        "id": "D",
+        "text": "650"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "540 is 90% of cost price, so cost price = 540 / 0.9 = 600.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_009",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What is 19 cubed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6,159"
+      },
+      {
+        "id": "B",
+        "text": "6,459"
+      },
+      {
+        "id": "C",
+        "text": "6,859"
+      },
+      {
+        "id": "D",
+        "text": "7,259"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "19 cubed = 19 x 19 x 19 = 361 x 19 = 6,859.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_010",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "hard",
+    "question": "A number is 25% more than 160. What is the number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "180"
+      },
+      {
+        "id": "B",
+        "text": "190"
+      },
+      {
+        "id": "C",
+        "text": "200"
+      },
+      {
+        "id": "D",
+        "text": "220"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "25% of 160 is 40, so the number is 160 + 40 = 200.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_011",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "hard",
+    "question": "If A:B = 5:12 and A = 45, find B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "130"
+      },
+      {
+        "id": "B",
+        "text": "108"
+      },
+      {
+        "id": "C",
+        "text": "119"
+      },
+      {
+        "id": "D",
+        "text": "97"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The common scale is 9; B = 12 x 9 = 108.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_012",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 108 x 116?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12528"
+      },
+      {
+        "id": "B",
+        "text": "13781"
+      },
+      {
+        "id": "C",
+        "text": "11275"
+      },
+      {
+        "id": "D",
+        "text": "15034"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using (100 + 8)(100 + 16) gives 12528.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_013",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 1200 / 25?",
+    "options": [
+      {
+        "id": "A",
+        "text": "53"
+      },
+      {
+        "id": "B",
+        "text": "43"
+      },
+      {
+        "id": "C",
+        "text": "58"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "25 x 48 = 1200.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_014",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What is 89 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7129"
+      },
+      {
+        "id": "B",
+        "text": "9505"
+      },
+      {
+        "id": "C",
+        "text": "7921"
+      },
+      {
+        "id": "D",
+        "text": "8713"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Squaring 89 gives 7921.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_015",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "hard",
+    "question": "What is 1014 x 1016?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1236268"
+      },
+      {
+        "id": "B",
+        "text": "1030224"
+      },
+      {
+        "id": "C",
+        "text": "1133246"
+      },
+      {
+        "id": "D",
+        "text": "927202"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The numbers are 15 below and above 1015; their product is 1030224.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_016",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "hard",
+    "question": "An item sold for 744 represents a 11% loss. Find its cost price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "835.9550561797753"
+      },
+      {
+        "id": "B",
+        "text": "919.9550561797753"
+      },
+      {
+        "id": "C",
+        "text": "751.9550561797753"
+      },
+      {
+        "id": "D",
+        "text": "1003.9550561797753"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Selling price is 89% of cost, so cost = 744 / 0.89 = 835.9550561797753.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_017",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What is 22 cubed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "11713"
+      },
+      {
+        "id": "B",
+        "text": "9583"
+      },
+      {
+        "id": "C",
+        "text": "12778"
+      },
+      {
+        "id": "D",
+        "text": "10648"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "22 cubed equals 10648.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_018",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "hard",
+    "question": "A price of 380 is increased by 20% and reduced by 20%. What is the final price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "328.8"
+      },
+      {
+        "id": "B",
+        "text": "436.8"
+      },
+      {
+        "id": "C",
+        "text": "364.8"
+      },
+      {
+        "id": "D",
+        "text": "400.8"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "380 x 1.2 x 0.8 = 364.8.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_019",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 7/6 of 30?",
+    "options": [
+      {
+        "id": "A",
+        "text": "43"
+      },
+      {
+        "id": "B",
+        "text": "35"
+      },
+      {
+        "id": "C",
+        "text": "39"
+      },
+      {
+        "id": "D",
+        "text": "31"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "30 / 6 x 7 = 35.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_020",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "hard",
+    "question": "If A:B = 4:9 and A = 32, find B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "72"
+      },
+      {
+        "id": "B",
+        "text": "79"
+      },
+      {
+        "id": "C",
+        "text": "65"
+      },
+      {
+        "id": "D",
+        "text": "86"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The common scale is 8; B = 9 x 8 = 72.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_021",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 117 x 125?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16088"
+      },
+      {
+        "id": "B",
+        "text": "13162"
+      },
+      {
+        "id": "C",
+        "text": "17551"
+      },
+      {
+        "id": "D",
+        "text": "14625"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Using (100 + 17)(100 + 25) gives 14625.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_022",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 1428 / 34?",
+    "options": [
+      {
+        "id": "A",
+        "text": "38"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "42"
+      },
+      {
+        "id": "D",
+        "text": "46"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "34 x 42 = 1428.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_023",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What is 98 squared? (generated variation 23)",
+    "options": [
+      {
+        "id": "A",
+        "text": "11524"
+      },
+      {
+        "id": "B",
+        "text": "9604"
+      },
+      {
+        "id": "C",
+        "text": "10564"
+      },
+      {
+        "id": "D",
+        "text": "8644"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Squaring 98 gives 9604.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_024",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "hard",
+    "question": "What is 1023 x 1025?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1048575"
+      },
+      {
+        "id": "B",
+        "text": "1153433"
+      },
+      {
+        "id": "C",
+        "text": "943717"
+      },
+      {
+        "id": "D",
+        "text": "1258291"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The numbers are 24 below and above 1024; their product is 1048575.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_025",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "hard",
+    "question": "An item sold for 825 represents a 10% loss. Find its cost price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1008.6666666666666"
+      },
+      {
+        "id": "B",
+        "text": "824.6666666666666"
+      },
+      {
+        "id": "C",
+        "text": "1100.6666666666665"
+      },
+      {
+        "id": "D",
+        "text": "916.6666666666666"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Selling price is 90% of cost, so cost = 825 / 0.9 = 916.6666666666666.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_026",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What is 21 cubed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8335"
+      },
+      {
+        "id": "B",
+        "text": "11113"
+      },
+      {
+        "id": "C",
+        "text": "9261"
+      },
+      {
+        "id": "D",
+        "text": "10187"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "21 cubed equals 9261.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_027",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "hard",
+    "question": "A price of 470 is increased by 20% and reduced by 20%. What is the final price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "541.2"
+      },
+      {
+        "id": "B",
+        "text": "451.2"
+      },
+      {
+        "id": "C",
+        "text": "496.2"
+      },
+      {
+        "id": "D",
+        "text": "406.2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "470 x 1.2 x 0.8 = 451.2.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_028",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 6/9 of 18?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "18 / 9 x 6 = 12.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_029",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "hard",
+    "question": "If A:B = 8:12 and A = 96, find B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "158"
+      },
+      {
+        "id": "B",
+        "text": "130"
+      },
+      {
+        "id": "C",
+        "text": "172"
+      },
+      {
+        "id": "D",
+        "text": "144"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The common scale is 12; B = 12 x 12 = 144.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_030",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 126 x 134?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15196"
+      },
+      {
+        "id": "B",
+        "text": "20260"
+      },
+      {
+        "id": "C",
+        "text": "16884"
+      },
+      {
+        "id": "D",
+        "text": "18572"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Using (100 + 26)(100 + 34) gives 16884.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_031",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 1116 / 31?",
+    "options": [
+      {
+        "id": "A",
+        "text": "44"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "40"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "31 x 36 = 1116.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_032",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What is 82 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6724"
+      },
+      {
+        "id": "B",
+        "text": "7396"
+      },
+      {
+        "id": "C",
+        "text": "6052"
+      },
+      {
+        "id": "D",
+        "text": "8068"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Squaring 82 gives 6724.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_033",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "hard",
+    "question": "What is 1032 x 1034?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1173797"
+      },
+      {
+        "id": "B",
+        "text": "960379"
+      },
+      {
+        "id": "C",
+        "text": "1280506"
+      },
+      {
+        "id": "D",
+        "text": "1067088"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The numbers are 33 below and above 1033; their product is 1067088.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_034",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "hard",
+    "question": "An item sold for 906 represents a 14% loss. Find its cost price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "948.4883720930234"
+      },
+      {
+        "id": "B",
+        "text": "1263.4883720930234"
+      },
+      {
+        "id": "C",
+        "text": "1053.4883720930234"
+      },
+      {
+        "id": "D",
+        "text": "1158.4883720930234"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Selling price is 86% of cost, so cost = 906 / 0.86 = 1053.4883720930234.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_035",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What is 20 cubed?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9600"
+      },
+      {
+        "id": "B",
+        "text": "8000"
+      },
+      {
+        "id": "C",
+        "text": "8800"
+      },
+      {
+        "id": "D",
+        "text": "7200"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "20 cubed equals 8000.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_036",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "hard",
+    "question": "A price of 560 is increased by 20% and reduced by 20%. What is the final price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "537.6"
+      },
+      {
+        "id": "B",
+        "text": "591.6"
+      },
+      {
+        "id": "C",
+        "text": "483.6"
+      },
+      {
+        "id": "D",
+        "text": "645.6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "560 x 1.2 x 0.8 = 537.6.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_037",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 5/6 of 18?",
+    "options": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "13"
+      },
+      {
+        "id": "C",
+        "text": "19"
+      },
+      {
+        "id": "D",
+        "text": "15"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "18 / 6 x 5 = 15.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_038",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "hard",
+    "question": "If A:B = 7:9 and A = 77, find B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "89"
+      },
+      {
+        "id": "B",
+        "text": "119"
+      },
+      {
+        "id": "C",
+        "text": "99"
+      },
+      {
+        "id": "D",
+        "text": "109"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The common scale is 11; B = 9 x 11 = 99.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_039",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 135 x 143?",
+    "options": [
+      {
+        "id": "A",
+        "text": "23167"
+      },
+      {
+        "id": "B",
+        "text": "19305"
+      },
+      {
+        "id": "C",
+        "text": "21236"
+      },
+      {
+        "id": "D",
+        "text": "17374"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Using (100 + 35)(100 + 43) gives 19305.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_040",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 1260 / 28?",
+    "options": [
+      {
+        "id": "A",
+        "text": "45"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "40"
+      },
+      {
+        "id": "D",
+        "text": "55"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "28 x 45 = 1260.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_041",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What is 91 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9109"
+      },
+      {
+        "id": "B",
+        "text": "7453"
+      },
+      {
+        "id": "C",
+        "text": "9937"
+      },
+      {
+        "id": "D",
+        "text": "8281"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Squaring 91 gives 8281.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_042",
+    "category": "mental-maths",
+    "topic": "quick-calculation",
+    "difficulty": "hard",
+    "question": "What is 1041 x 1043?",
+    "options": [
+      {
+        "id": "A",
+        "text": "977187"
+      },
+      {
+        "id": "B",
+        "text": "1302915"
+      },
+      {
+        "id": "C",
+        "text": "1085763"
+      },
+      {
+        "id": "D",
+        "text": "1194339"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The numbers are 42 below and above 1042; their product is 1085763.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_043",
+    "category": "mental-maths",
+    "topic": "profit-loss",
+    "difficulty": "hard",
+    "question": "An item sold for 987 represents a 13% loss. Find its cost price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1360.4827586206898"
+      },
+      {
+        "id": "B",
+        "text": "1134.4827586206898"
+      },
+      {
+        "id": "C",
+        "text": "1247.4827586206898"
+      },
+      {
+        "id": "D",
+        "text": "1021.4827586206898"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Selling price is 87% of cost, so cost = 987 / 0.87 = 1134.4827586206898.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_044",
+    "category": "mental-maths",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What is 19 cubed? (generated variation 44)",
+    "options": [
+      {
+        "id": "A",
+        "text": "6859"
+      },
+      {
+        "id": "B",
+        "text": "7545"
+      },
+      {
+        "id": "C",
+        "text": "6173"
+      },
+      {
+        "id": "D",
+        "text": "8231"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "19 cubed equals 6859.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_045",
+    "category": "mental-maths",
+    "topic": "percentage",
+    "difficulty": "hard",
+    "question": "A price of 650 is increased by 20% and reduced by 20%. What is the final price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "686"
+      },
+      {
+        "id": "B",
+        "text": "562"
+      },
+      {
+        "id": "C",
+        "text": "748"
+      },
+      {
+        "id": "D",
+        "text": "624"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "650 x 1.2 x 0.8 = 624.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_046",
+    "category": "mental-maths",
+    "topic": "fractions",
+    "difficulty": "hard",
+    "question": "What is 4/9 of 36?",
+    "options": [
+      {
+        "id": "A",
+        "text": "14"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "36 / 9 x 4 = 16.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_047",
+    "category": "mental-maths",
+    "topic": "ratio",
+    "difficulty": "hard",
+    "question": "If A:B = 6:12 and A = 60, find B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "144"
+      },
+      {
+        "id": "B",
+        "text": "120"
+      },
+      {
+        "id": "C",
+        "text": "132"
+      },
+      {
+        "id": "D",
+        "text": "108"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The common scale is 10; B = 12 x 10 = 120.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_048",
+    "category": "mental-maths",
+    "topic": "multiplication",
+    "difficulty": "hard",
+    "question": "What is 144 x 152?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21888"
+      },
+      {
+        "id": "B",
+        "text": "24077"
+      },
+      {
+        "id": "C",
+        "text": "19699"
+      },
+      {
+        "id": "D",
+        "text": "26266"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using (100 + 44)(100 + 52) gives 21888.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_049",
+    "category": "mental-maths",
+    "topic": "division",
+    "difficulty": "hard",
+    "question": "What is 975 / 25?",
+    "options": [
+      {
+        "id": "A",
+        "text": "43"
+      },
+      {
+        "id": "B",
+        "text": "35"
+      },
+      {
+        "id": "C",
+        "text": "47"
+      },
+      {
+        "id": "D",
+        "text": "39"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "25 x 39 = 975.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "math_hard_050",
+    "category": "mental-maths",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What is 75 squared?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5062"
+      },
+      {
+        "id": "B",
+        "text": "6751"
+      },
+      {
+        "id": "C",
+        "text": "5625"
+      },
+      {
+        "id": "D",
+        "text": "6188"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Squaring 75 gives 5625.",
+    "source": "generated",
+    "verified": true
+  }
+]

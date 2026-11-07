@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "quant_medium_001",
+    "category": "quantitative-aptitude",
+    "topic": "average",
+    "difficulty": "medium",
+    "question": "The average of 5 numbers is 18. What is their total?",
+    "options": [
+      {
+        "id": "A",
+        "text": "72"
+      },
+      {
+        "id": "B",
+        "text": "80"
+      },
+      {
+        "id": "C",
+        "text": "90"
+      },
+      {
+        "id": "D",
+        "text": "108"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total = average x count = 18 x 5 = 90.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_002",
+    "category": "quantitative-aptitude",
+    "topic": "speed-distance-time",
+    "difficulty": "medium",
+    "question": "A train travels 240 km at 80 km/h. How long does the journey take?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 hours"
+      },
+      {
+        "id": "B",
+        "text": "3 hours"
+      },
+      {
+        "id": "C",
+        "text": "4 hours"
+      },
+      {
+        "id": "D",
+        "text": "5 hours"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Time = distance / speed = 240 / 80 = 3 hours.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_003",
+    "category": "quantitative-aptitude",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item marked 500 is sold at a 10% discount. What is the selling price?",
+    "options": [
+      {
+        "id": "A",
+        "text": "440"
+      },
+      {
+        "id": "B",
+        "text": "450"
+      },
+      {
+        "id": "C",
+        "text": "460"
+      },
+      {
+        "id": "D",
+        "text": "490"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "10% of 500 is 50, so the selling price is 450.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_004",
+    "category": "quantitative-aptitude",
+    "topic": "simple-interest",
+    "difficulty": "medium",
+    "question": "At what annual simple-interest rate will 2,000 earn 240 in 3 years?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3%"
+      },
+      {
+        "id": "B",
+        "text": "4%"
+      },
+      {
+        "id": "C",
+        "text": "5%"
+      },
+      {
+        "id": "D",
+        "text": "6%"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Rate = SI x 100 / (P x T) = 240 x 100 / (2,000 x 3) = 4%.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_005",
+    "category": "quantitative-aptitude",
+    "topic": "time-and-work",
+    "difficulty": "medium",
+    "question": "A can finish a job in 12 days and B in 6 days. How many days do they need together?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 days"
+      },
+      {
+        "id": "B",
+        "text": "4 days"
+      },
+      {
+        "id": "C",
+        "text": "6 days"
+      },
+      {
+        "id": "D",
+        "text": "9 days"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Combined rate is 1/12 + 1/6 = 1/4, so the job takes 4 days.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_006",
+    "category": "quantitative-aptitude",
+    "topic": "probability",
+    "difficulty": "medium",
+    "question": "A die is rolled once. What is the probability of getting an even number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/6"
+      },
+      {
+        "id": "B",
+        "text": "1/3"
+      },
+      {
+        "id": "C",
+        "text": "1/2"
+      },
+      {
+        "id": "D",
+        "text": "2/3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "There are 3 even outcomes out of 6, so probability = 3/6 = 1/2.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_007",
+    "category": "quantitative-aptitude",
+    "topic": "combinations",
+    "difficulty": "medium",
+    "question": "How many ways can 2 people be chosen from 5 people?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "20"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The number is 5C2 = 5 x 4 / 2 = 10.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_008",
+    "category": "quantitative-aptitude",
+    "topic": "mixtures",
+    "difficulty": "medium",
+    "question": "A 20-liter mixture contains milk and water in the ratio 3:2. How much water is present?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 liters"
+      },
+      {
+        "id": "B",
+        "text": "8 liters"
+      },
+      {
+        "id": "C",
+        "text": "10 liters"
+      },
+      {
+        "id": "D",
+        "text": "12 liters"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "There are 5 parts, so each part is 4 liters; water is 2 parts = 8 liters.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_009",
+    "category": "quantitative-aptitude",
+    "topic": "average",
+    "difficulty": "medium",
+    "question": "The average of 4 numbers is 25. If one number is removed, the average of the remaining three is 20. What was the removed number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "35"
+      },
+      {
+        "id": "B",
+        "text": "40"
+      },
+      {
+        "id": "C",
+        "text": "45"
+      },
+      {
+        "id": "D",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Original total is 4 x 25 = 100; remaining total is 3 x 20 = 60, so the removed number is 40.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_010",
+    "category": "quantitative-aptitude",
+    "topic": "compound-interest",
+    "difficulty": "medium",
+    "question": "What is the compound interest on 2,000 at 10% per year for 2 years?",
+    "options": [
+      {
+        "id": "A",
+        "text": "400"
+      },
+      {
+        "id": "B",
+        "text": "420"
+      },
+      {
+        "id": "C",
+        "text": "440"
+      },
+      {
+        "id": "D",
+        "text": "460"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Amount = 2,000 x 1.1 squared = 2,420, so compound interest is 420.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_011",
+    "category": "quantitative-aptitude",
+    "topic": "simple-interest",
+    "difficulty": "medium",
+    "question": "Find the simple interest on 720 at 5% per year for 2 years. (set quantitative-aptitude medium 11)",
+    "options": [
+      {
+        "id": "A",
+        "text": "86"
+      },
+      {
+        "id": "B",
+        "text": "72"
+      },
+      {
+        "id": "C",
+        "text": "79"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "SI = 720 x 5 x 2 / 100 = 72.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_012",
+    "category": "quantitative-aptitude",
+    "topic": "time-and-work",
+    "difficulty": "medium",
+    "question": "A worker completes a job in 10 days. At twice the rate, how many days are needed? (set quantitative-aptitude medium 12)",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "7"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doubling the rate halves the time: 10 / 2 = 5 days.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_013",
+    "category": "quantitative-aptitude",
+    "topic": "probability",
+    "difficulty": "medium",
+    "question": "If 5 outcomes are favorable among 9 equally likely outcomes, what is the probability? (set quantitative-aptitude medium 13)",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.5555555555555554"
+      },
+      {
+        "id": "B",
+        "text": "0"
+      },
+      {
+        "id": "C",
+        "text": "4.555555555555555"
+      },
+      {
+        "id": "D",
+        "text": "0.5555555555555556"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Probability = favorable outcomes / total outcomes = 5/9 = 0.5555555555555556.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_014",
+    "category": "quantitative-aptitude",
+    "topic": "permutations",
+    "difficulty": "medium",
+    "question": "How many ordered ways can two different people be selected from 8 people? (set quantitative-aptitude medium 14)",
+    "options": [
+      {
+        "id": "A",
+        "text": "50"
+      },
+      {
+        "id": "B",
+        "text": "68"
+      },
+      {
+        "id": "C",
+        "text": "56"
+      },
+      {
+        "id": "D",
+        "text": "62"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "There are 8 choices for the first and 7 for the second: 56.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_015",
+    "category": "quantitative-aptitude",
+    "topic": "mixtures",
+    "difficulty": "medium",
+    "question": "A mixture has components in ratio 5:6. If the first component is 20, how much is the second? (set quantitative-aptitude medium 15)",
+    "options": [
+      {
+        "id": "A",
+        "text": "28"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "26"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The scale is 4; the second component is 6 x 4 = 24.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_016",
+    "category": "quantitative-aptitude",
+    "topic": "average",
+    "difficulty": "medium",
+    "question": "What is the average of 18 and 25? (set quantitative-aptitude medium 16)",
+    "options": [
+      {
+        "id": "A",
+        "text": "21.5"
+      },
+      {
+        "id": "B",
+        "text": "23.5"
+      },
+      {
+        "id": "C",
+        "text": "19.5"
+      },
+      {
+        "id": "D",
+        "text": "25.5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "(18 + 25) / 2 = 21.5.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_017",
+    "category": "quantitative-aptitude",
+    "topic": "speed-distance-time",
+    "difficulty": "medium",
+    "question": "How far does a vehicle travel at 45 km/h for 3 hours? (set quantitative-aptitude medium 17)",
+    "options": [
+      {
+        "id": "A",
+        "text": "149"
+      },
+      {
+        "id": "B",
+        "text": "121"
+      },
+      {
+        "id": "C",
+        "text": "163"
+      },
+      {
+        "id": "D",
+        "text": "135"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Distance = speed x time = 45 x 3 = 135 km.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_018",
+    "category": "quantitative-aptitude",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 190 and is sold at 25% profit. Find the selling price. (set quantitative-aptitude medium 18)",
+    "options": [
+      {
+        "id": "A",
+        "text": "213.5"
+      },
+      {
+        "id": "B",
+        "text": "285.5"
+      },
+      {
+        "id": "C",
+        "text": "237.5"
+      },
+      {
+        "id": "D",
+        "text": "261.5"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Selling price = 190 x 1.25 = 237.5.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_019",
+    "category": "quantitative-aptitude",
+    "topic": "simple-interest",
+    "difficulty": "medium",
+    "question": "Find the simple interest on 880 at 8% per year for 2 years. (set quantitative-aptitude medium 19)",
+    "options": [
+      {
+        "id": "A",
+        "text": "168.8"
+      },
+      {
+        "id": "B",
+        "text": "140.8"
+      },
+      {
+        "id": "C",
+        "text": "154.8"
+      },
+      {
+        "id": "D",
+        "text": "126.80000000000001"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "SI = 880 x 8 x 2 / 100 = 140.8.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_020",
+    "category": "quantitative-aptitude",
+    "topic": "time-and-work",
+    "difficulty": "medium",
+    "question": "A worker completes a job in 8 days. At twice the rate, how many days are needed? (set quantitative-aptitude medium 20)",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doubling the rate halves the time: 8 / 2 = 4 days.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_021",
+    "category": "quantitative-aptitude",
+    "topic": "probability",
+    "difficulty": "medium",
+    "question": "If 3 outcomes are favorable among 7 equally likely outcomes, what is the probability? (set quantitative-aptitude medium 21)",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.4285714285714284"
+      },
+      {
+        "id": "B",
+        "text": "0"
+      },
+      {
+        "id": "C",
+        "text": "4.428571428571429"
+      },
+      {
+        "id": "D",
+        "text": "0.42857142857142855"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Probability = favorable outcomes / total outcomes = 3/7 = 0.42857142857142855.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_022",
+    "category": "quantitative-aptitude",
+    "topic": "permutations",
+    "difficulty": "medium",
+    "question": "How many ordered ways can two different people be selected from 6 people? (set quantitative-aptitude medium 22)",
+    "options": [
+      {
+        "id": "A",
+        "text": "27"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "30"
+      },
+      {
+        "id": "D",
+        "text": "33"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "There are 6 choices for the first and 5 for the second: 30.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_023",
+    "category": "quantitative-aptitude",
+    "topic": "mixtures",
+    "difficulty": "medium",
+    "question": "A mixture has components in ratio 5:6. If the first component is 35, how much is the second? (set quantitative-aptitude medium 23)",
+    "options": [
+      {
+        "id": "A",
+        "text": "50"
+      },
+      {
+        "id": "B",
+        "text": "42"
+      },
+      {
+        "id": "C",
+        "text": "46"
+      },
+      {
+        "id": "D",
+        "text": "38"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The scale is 7; the second component is 6 x 7 = 42.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_024",
+    "category": "quantitative-aptitude",
+    "topic": "average",
+    "difficulty": "medium",
+    "question": "What is the average of 16 and 24? (set quantitative-aptitude medium 24)",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "22"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "(16 + 24) / 2 = 20.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_025",
+    "category": "quantitative-aptitude",
+    "topic": "speed-distance-time",
+    "difficulty": "medium",
+    "question": "How far does a vehicle travel at 45 km/h for 3 hours? (generated variation 25) (set quantitative-aptitude medium 25)",
+    "options": [
+      {
+        "id": "A",
+        "text": "149"
+      },
+      {
+        "id": "B",
+        "text": "121"
+      },
+      {
+        "id": "C",
+        "text": "163"
+      },
+      {
+        "id": "D",
+        "text": "135"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Distance = speed x time = 45 x 3 = 135 km.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_026",
+    "category": "quantitative-aptitude",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 230 and is sold at 15% profit. Find the selling price. (set quantitative-aptitude medium 26)",
+    "options": [
+      {
+        "id": "A",
+        "text": "238.5"
+      },
+      {
+        "id": "B",
+        "text": "316.5"
+      },
+      {
+        "id": "C",
+        "text": "264.5"
+      },
+      {
+        "id": "D",
+        "text": "290.5"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Selling price = 230 x 1.15 = 264.5.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_027",
+    "category": "quantitative-aptitude",
+    "topic": "simple-interest",
+    "difficulty": "medium",
+    "question": "Find the simple interest on 1040 at 6% per year for 2 years. (set quantitative-aptitude medium 27)",
+    "options": [
+      {
+        "id": "A",
+        "text": "148.8"
+      },
+      {
+        "id": "B",
+        "text": "124.8"
+      },
+      {
+        "id": "C",
+        "text": "136.8"
+      },
+      {
+        "id": "D",
+        "text": "112.8"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "SI = 1040 x 6 x 2 / 100 = 124.8.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_028",
+    "category": "quantitative-aptitude",
+    "topic": "time-and-work",
+    "difficulty": "medium",
+    "question": "A worker completes a job in 11 days. At twice the rate, how many days are needed? (set quantitative-aptitude medium 28)",
+    "options": [
+      {
+        "id": "A",
+        "text": "5.5"
+      },
+      {
+        "id": "B",
+        "text": "7.5"
+      },
+      {
+        "id": "C",
+        "text": "3.5"
+      },
+      {
+        "id": "D",
+        "text": "9.5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doubling the rate halves the time: 11 / 2 = 5.5 days.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_029",
+    "category": "quantitative-aptitude",
+    "topic": "probability",
+    "difficulty": "medium",
+    "question": "If 6 outcomes are favorable among 10 equally likely outcomes, what is the probability? (set quantitative-aptitude medium 29)",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.6"
+      },
+      {
+        "id": "B",
+        "text": "0"
+      },
+      {
+        "id": "C",
+        "text": "4.6"
+      },
+      {
+        "id": "D",
+        "text": "0.6"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Probability = favorable outcomes / total outcomes = 6/10 = 0.6.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_030",
+    "category": "quantitative-aptitude",
+    "topic": "permutations",
+    "difficulty": "medium",
+    "question": "How many ordered ways can two different people be selected from 4 people? (set quantitative-aptitude medium 30)",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "There are 4 choices for the first and 3 for the second: 12.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_031",
+    "category": "quantitative-aptitude",
+    "topic": "mixtures",
+    "difficulty": "medium",
+    "question": "A mixture has components in ratio 5:6. If the first component is 25, how much is the second? (set quantitative-aptitude medium 31)",
+    "options": [
+      {
+        "id": "A",
+        "text": "36"
+      },
+      {
+        "id": "B",
+        "text": "30"
+      },
+      {
+        "id": "C",
+        "text": "33"
+      },
+      {
+        "id": "D",
+        "text": "27"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The scale is 5; the second component is 6 x 5 = 30.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_032",
+    "category": "quantitative-aptitude",
+    "topic": "average",
+    "difficulty": "medium",
+    "question": "What is the average of 14 and 23? (set quantitative-aptitude medium 32)",
+    "options": [
+      {
+        "id": "A",
+        "text": "18.5"
+      },
+      {
+        "id": "B",
+        "text": "20.5"
+      },
+      {
+        "id": "C",
+        "text": "16.5"
+      },
+      {
+        "id": "D",
+        "text": "22.5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "(14 + 23) / 2 = 18.5.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_033",
+    "category": "quantitative-aptitude",
+    "topic": "speed-distance-time",
+    "difficulty": "medium",
+    "question": "How far does a vehicle travel at 45 km/h for 3 hours? (generated variation 33) (set quantitative-aptitude medium 33)",
+    "options": [
+      {
+        "id": "A",
+        "text": "149"
+      },
+      {
+        "id": "B",
+        "text": "121"
+      },
+      {
+        "id": "C",
+        "text": "163"
+      },
+      {
+        "id": "D",
+        "text": "135"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Distance = speed x time = 45 x 3 = 135 km.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_034",
+    "category": "quantitative-aptitude",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 270 and is sold at 30% profit. Find the selling price. (set quantitative-aptitude medium 34)",
+    "options": [
+      {
+        "id": "A",
+        "text": "316"
+      },
+      {
+        "id": "B",
+        "text": "421"
+      },
+      {
+        "id": "C",
+        "text": "351"
+      },
+      {
+        "id": "D",
+        "text": "386"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Selling price = 270 x 1.3 = 351.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_035",
+    "category": "quantitative-aptitude",
+    "topic": "simple-interest",
+    "difficulty": "medium",
+    "question": "Find the simple interest on 1200 at 4% per year for 2 years. (set quantitative-aptitude medium 35)",
+    "options": [
+      {
+        "id": "A",
+        "text": "116"
+      },
+      {
+        "id": "B",
+        "text": "96"
+      },
+      {
+        "id": "C",
+        "text": "106"
+      },
+      {
+        "id": "D",
+        "text": "86"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "SI = 1200 x 4 x 2 / 100 = 96.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_036",
+    "category": "quantitative-aptitude",
+    "topic": "time-and-work",
+    "difficulty": "medium",
+    "question": "A worker completes a job in 9 days. At twice the rate, how many days are needed? (set quantitative-aptitude medium 36)",
+    "options": [
+      {
+        "id": "A",
+        "text": "4.5"
+      },
+      {
+        "id": "B",
+        "text": "6.5"
+      },
+      {
+        "id": "C",
+        "text": "2.5"
+      },
+      {
+        "id": "D",
+        "text": "8.5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doubling the rate halves the time: 9 / 2 = 4.5 days.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_037",
+    "category": "quantitative-aptitude",
+    "topic": "probability",
+    "difficulty": "medium",
+    "question": "If 4 outcomes are favorable among 8 equally likely outcomes, what is the probability? (set quantitative-aptitude medium 37)",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.5"
+      },
+      {
+        "id": "B",
+        "text": "0"
+      },
+      {
+        "id": "C",
+        "text": "4.5"
+      },
+      {
+        "id": "D",
+        "text": "0.5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Probability = favorable outcomes / total outcomes = 4/8 = 0.5.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_038",
+    "category": "quantitative-aptitude",
+    "topic": "permutations",
+    "difficulty": "medium",
+    "question": "How many ordered ways can two different people be selected from 7 people? (set quantitative-aptitude medium 38)",
+    "options": [
+      {
+        "id": "A",
+        "text": "38"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "42"
+      },
+      {
+        "id": "D",
+        "text": "46"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "There are 7 choices for the first and 6 for the second: 42.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_039",
+    "category": "quantitative-aptitude",
+    "topic": "mixtures",
+    "difficulty": "medium",
+    "question": "A mixture has components in ratio 5:6. If the first component is 40, how much is the second? (set quantitative-aptitude medium 39)",
+    "options": [
+      {
+        "id": "A",
+        "text": "58"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "53"
+      },
+      {
+        "id": "D",
+        "text": "43"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The scale is 8; the second component is 6 x 8 = 48.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_040",
+    "category": "quantitative-aptitude",
+    "topic": "average",
+    "difficulty": "medium",
+    "question": "What is the average of 12 and 22? (set quantitative-aptitude medium 40)",
+    "options": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "19"
+      },
+      {
+        "id": "C",
+        "text": "15"
+      },
+      {
+        "id": "D",
+        "text": "21"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "(12 + 22) / 2 = 17.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_041",
+    "category": "quantitative-aptitude",
+    "topic": "speed-distance-time",
+    "difficulty": "medium",
+    "question": "How far does a vehicle travel at 45 km/h for 3 hours? (generated variation 41) (set quantitative-aptitude medium 41)",
+    "options": [
+      {
+        "id": "A",
+        "text": "149"
+      },
+      {
+        "id": "B",
+        "text": "121"
+      },
+      {
+        "id": "C",
+        "text": "163"
+      },
+      {
+        "id": "D",
+        "text": "135"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Distance = speed x time = 45 x 3 = 135 km.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_042",
+    "category": "quantitative-aptitude",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 310 and is sold at 20% profit. Find the selling price. (set quantitative-aptitude medium 42)",
+    "options": [
+      {
+        "id": "A",
+        "text": "335"
+      },
+      {
+        "id": "B",
+        "text": "446"
+      },
+      {
+        "id": "C",
+        "text": "372"
+      },
+      {
+        "id": "D",
+        "text": "409"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Selling price = 310 x 1.2 = 372.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_043",
+    "category": "quantitative-aptitude",
+    "topic": "simple-interest",
+    "difficulty": "medium",
+    "question": "Find the simple interest on 1360 at 7% per year for 2 years. (set quantitative-aptitude medium 43)",
+    "options": [
+      {
+        "id": "A",
+        "text": "228.4"
+      },
+      {
+        "id": "B",
+        "text": "190.4"
+      },
+      {
+        "id": "C",
+        "text": "209.4"
+      },
+      {
+        "id": "D",
+        "text": "171.4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "SI = 1360 x 7 x 2 / 100 = 190.4.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_044",
+    "category": "quantitative-aptitude",
+    "topic": "time-and-work",
+    "difficulty": "medium",
+    "question": "A worker completes a job in 12 days. At twice the rate, how many days are needed? (set quantitative-aptitude medium 44)",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Doubling the rate halves the time: 12 / 2 = 6 days.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_045",
+    "category": "quantitative-aptitude",
+    "topic": "probability",
+    "difficulty": "medium",
+    "question": "If 2 outcomes are favorable among 6 equally likely outcomes, what is the probability? (set quantitative-aptitude medium 45)",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.3333333333333335"
+      },
+      {
+        "id": "B",
+        "text": "0"
+      },
+      {
+        "id": "C",
+        "text": "4.333333333333333"
+      },
+      {
+        "id": "D",
+        "text": "0.3333333333333333"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Probability = favorable outcomes / total outcomes = 2/6 = 0.3333333333333333.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_046",
+    "category": "quantitative-aptitude",
+    "topic": "permutations",
+    "difficulty": "medium",
+    "question": "How many ordered ways can two different people be selected from 5 people? (set quantitative-aptitude medium 46)",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "There are 5 choices for the first and 4 for the second: 20.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_047",
+    "category": "quantitative-aptitude",
+    "topic": "mixtures",
+    "difficulty": "medium",
+    "question": "A mixture has components in ratio 5:6. If the first component is 30, how much is the second? (set quantitative-aptitude medium 47)",
+    "options": [
+      {
+        "id": "A",
+        "text": "44"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "40"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The scale is 6; the second component is 6 x 6 = 36.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_048",
+    "category": "quantitative-aptitude",
+    "topic": "average",
+    "difficulty": "medium",
+    "question": "What is the average of 20 and 21? (set quantitative-aptitude medium 48)",
+    "options": [
+      {
+        "id": "A",
+        "text": "20.5"
+      },
+      {
+        "id": "B",
+        "text": "22.5"
+      },
+      {
+        "id": "C",
+        "text": "18.5"
+      },
+      {
+        "id": "D",
+        "text": "24.5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "(20 + 21) / 2 = 20.5.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_049",
+    "category": "quantitative-aptitude",
+    "topic": "speed-distance-time",
+    "difficulty": "medium",
+    "question": "How far does a vehicle travel at 45 km/h for 3 hours? (generated variation 49) (set quantitative-aptitude medium 49)",
+    "options": [
+      {
+        "id": "A",
+        "text": "149"
+      },
+      {
+        "id": "B",
+        "text": "121"
+      },
+      {
+        "id": "C",
+        "text": "163"
+      },
+      {
+        "id": "D",
+        "text": "135"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Distance = speed x time = 45 x 3 = 135 km.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "quant_medium_050",
+    "category": "quantitative-aptitude",
+    "topic": "profit-loss",
+    "difficulty": "medium",
+    "question": "An item costs 350 and is sold at 10% profit. Find the selling price. (set quantitative-aptitude medium 50)",
+    "options": [
+      {
+        "id": "A",
+        "text": "346.00000000000006"
+      },
+      {
+        "id": "B",
+        "text": "463.00000000000006"
+      },
+      {
+        "id": "C",
+        "text": "385.00000000000006"
+      },
+      {
+        "id": "D",
+        "text": "424.00000000000006"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Selling price = 350 x 1.1 = 385.00000000000006.",
+    "source": "generated",
+    "verified": true
+  }
+]

@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "series_hard_001",
+    "category": "number-series",
+    "topic": "second-differences",
+    "difficulty": "hard",
+    "question": "What number comes next: 3, 8, 15, 24, 35?",
+    "options": [
+      {
+        "id": "A",
+        "text": "46"
+      },
+      {
+        "id": "B",
+        "text": "48"
+      },
+      {
+        "id": "C",
+        "text": "50"
+      },
+      {
+        "id": "D",
+        "text": "52"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Differences are 5, 7, 9, and 11; the next difference is 13, giving 48.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_002",
+    "category": "number-series",
+    "topic": "geometric-progression",
+    "difficulty": "hard",
+    "question": "What number comes next: 2, 6, 18, 54?",
+    "options": [
+      {
+        "id": "A",
+        "text": "108"
+      },
+      {
+        "id": "B",
+        "text": "126"
+      },
+      {
+        "id": "C",
+        "text": "162"
+      },
+      {
+        "id": "D",
+        "text": "216"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Each term is multiplied by 3, so 54 x 3 = 162.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_003",
+    "category": "number-series",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What number comes next: 27, 64, 125, 216?",
+    "options": [
+      {
+        "id": "A",
+        "text": "289"
+      },
+      {
+        "id": "B",
+        "text": "324"
+      },
+      {
+        "id": "C",
+        "text": "343"
+      },
+      {
+        "id": "D",
+        "text": "361"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "These are 3 cubed through 6 cubed; the next is 7 cubed = 343.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_004",
+    "category": "number-series",
+    "topic": "alternating-pattern",
+    "difficulty": "hard",
+    "question": "What number comes next: 4, 9, 7, 14, 10, 19?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "13"
+      },
+      {
+        "id": "C",
+        "text": "14"
+      },
+      {
+        "id": "D",
+        "text": "15"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Odd terms are 4, 7, 10, increasing by 3; the next odd term is 13.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_005",
+    "category": "number-series",
+    "topic": "mixed-pattern",
+    "difficulty": "hard",
+    "question": "What number comes next: 2, 5, 12, 27, 58?",
+    "options": [
+      {
+        "id": "A",
+        "text": "115"
+      },
+      {
+        "id": "B",
+        "text": "117"
+      },
+      {
+        "id": "C",
+        "text": "119"
+      },
+      {
+        "id": "D",
+        "text": "121"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Each term is previous term x2 plus successive odd numbers: +1, +2, +3, +4; the next is 58 x 2 + 1 = 117.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_006",
+    "category": "number-series",
+    "topic": "differences",
+    "difficulty": "hard",
+    "question": "What number comes next: 1, 2, 6, 15, 31, 56?",
+    "options": [
+      {
+        "id": "A",
+        "text": "86"
+      },
+      {
+        "id": "B",
+        "text": "90"
+      },
+      {
+        "id": "C",
+        "text": "92"
+      },
+      {
+        "id": "D",
+        "text": "96"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Differences are 1, 4, 9, 16, and 25, which are squares; the next difference is 36, giving 92.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_007",
+    "category": "number-series",
+    "topic": "geometric-progression",
+    "difficulty": "hard",
+    "question": "What number comes next: 729, 243, 81, 27?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Each term is divided by 3, so 27 / 3 = 9.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_008",
+    "category": "number-series",
+    "topic": "second-differences",
+    "difficulty": "hard",
+    "question": "What number comes next: 10, 17, 28, 43, 62?",
+    "options": [
+      {
+        "id": "A",
+        "text": "81"
+      },
+      {
+        "id": "B",
+        "text": "83"
+      },
+      {
+        "id": "C",
+        "text": "85"
+      },
+      {
+        "id": "D",
+        "text": "87"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Differences are 7, 11, 15, and 19; the next difference is 23, giving 85.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_009",
+    "category": "number-series",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What number comes next: 2, 5, 10, 17, 26?",
+    "options": [
+      {
+        "id": "A",
+        "text": "35"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "37"
+      },
+      {
+        "id": "D",
+        "text": "38"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The terms are n squared + 1 for n from 1 onward; 6 squared + 1 = 37.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_010",
+    "category": "number-series",
+    "topic": "alternating-pattern",
+    "difficulty": "hard",
+    "question": "What number comes next: 1, 4, 3, 12, 5, 20?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "7"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Odd terms are consecutive odd numbers 1, 3, 5; the next odd term is 7.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_011",
+    "category": "number-series",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What comes next: 216, 343, 512, 729? (set number-series hard 11)",
+    "options": [
+      {
+        "id": "A",
+        "text": "1100"
+      },
+      {
+        "id": "B",
+        "text": "900"
+      },
+      {
+        "id": "C",
+        "text": "1200"
+      },
+      {
+        "id": "D",
+        "text": "1000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 1000.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_012",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 8, 10, 12, 14, 16? (set number-series hard 12)",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The constant difference is 2; the next term is 18.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_013",
+    "category": "number-series",
+    "topic": "second-differences",
+    "difficulty": "hard",
+    "question": "What comes next: 5, 10, 17, 26? (set number-series hard 13)",
+    "options": [
+      {
+        "id": "A",
+        "text": "41"
+      },
+      {
+        "id": "B",
+        "text": "33"
+      },
+      {
+        "id": "C",
+        "text": "45"
+      },
+      {
+        "id": "D",
+        "text": "37"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 37.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_014",
+    "category": "number-series",
+    "topic": "alternating-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 12, 8, 16, 10? (set number-series hard 14)",
+    "options": [
+      {
+        "id": "A",
+        "text": "22"
+      },
+      {
+        "id": "B",
+        "text": "18"
+      },
+      {
+        "id": "C",
+        "text": "24"
+      },
+      {
+        "id": "D",
+        "text": "20"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 20.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_015",
+    "category": "number-series",
+    "topic": "mixed-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 4, 9, 19, 39? (set number-series hard 15)",
+    "options": [
+      {
+        "id": "A",
+        "text": "87"
+      },
+      {
+        "id": "B",
+        "text": "71"
+      },
+      {
+        "id": "C",
+        "text": "95"
+      },
+      {
+        "id": "D",
+        "text": "79"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 79.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_016",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 16, 26, 36, 46? (set number-series hard 16)",
+    "options": [
+      {
+        "id": "A",
+        "text": "56"
+      },
+      {
+        "id": "B",
+        "text": "62"
+      },
+      {
+        "id": "C",
+        "text": "50"
+      },
+      {
+        "id": "D",
+        "text": "68"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The common difference is 10; the next term is 56.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_017",
+    "category": "number-series",
+    "topic": "geometric-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 4, 16, 64, 256? (set number-series hard 17)",
+    "options": [
+      {
+        "id": "A",
+        "text": "1126"
+      },
+      {
+        "id": "B",
+        "text": "922"
+      },
+      {
+        "id": "C",
+        "text": "1228"
+      },
+      {
+        "id": "D",
+        "text": "1024"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Each term is multiplied by 4; the next term is 1024.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_018",
+    "category": "number-series",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What comes next: 81, 100, 121, 144? (set number-series hard 18)",
+    "options": [
+      {
+        "id": "A",
+        "text": "186"
+      },
+      {
+        "id": "B",
+        "text": "152"
+      },
+      {
+        "id": "C",
+        "text": "203"
+      },
+      {
+        "id": "D",
+        "text": "169"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 169.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_019",
+    "category": "number-series",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What comes next: 343, 512, 729, 1000? (set number-series hard 19)",
+    "options": [
+      {
+        "id": "A",
+        "text": "1464"
+      },
+      {
+        "id": "B",
+        "text": "1198"
+      },
+      {
+        "id": "C",
+        "text": "1597"
+      },
+      {
+        "id": "D",
+        "text": "1331"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 1331.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_020",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 10, 14, 18, 22, 26? (set number-series hard 20)",
+    "options": [
+      {
+        "id": "A",
+        "text": "30"
+      },
+      {
+        "id": "B",
+        "text": "33"
+      },
+      {
+        "id": "C",
+        "text": "27"
+      },
+      {
+        "id": "D",
+        "text": "36"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The constant difference is 4; the next term is 30.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_021",
+    "category": "number-series",
+    "topic": "second-differences",
+    "difficulty": "hard",
+    "question": "What comes next: 17, 26, 37, 50? (set number-series hard 21)",
+    "options": [
+      {
+        "id": "A",
+        "text": "72"
+      },
+      {
+        "id": "B",
+        "text": "58"
+      },
+      {
+        "id": "C",
+        "text": "79"
+      },
+      {
+        "id": "D",
+        "text": "65"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 65.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_022",
+    "category": "number-series",
+    "topic": "alternating-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 4, 8, 6, 12, 8? (set number-series hard 22)",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 16.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_023",
+    "category": "number-series",
+    "topic": "mixed-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 5, 11, 23, 47? (set number-series hard 23)",
+    "options": [
+      {
+        "id": "A",
+        "text": "105"
+      },
+      {
+        "id": "B",
+        "text": "85"
+      },
+      {
+        "id": "C",
+        "text": "115"
+      },
+      {
+        "id": "D",
+        "text": "95"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 95.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_024",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 2, 11, 20, 29, 38? (set number-series hard 24)",
+    "options": [
+      {
+        "id": "A",
+        "text": "47"
+      },
+      {
+        "id": "B",
+        "text": "52"
+      },
+      {
+        "id": "C",
+        "text": "42"
+      },
+      {
+        "id": "D",
+        "text": "57"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The common difference is 9; the next term is 47.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_025",
+    "category": "number-series",
+    "topic": "geometric-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 2, 6, 18, 54? (set number-series hard 25)",
+    "options": [
+      {
+        "id": "A",
+        "text": "178"
+      },
+      {
+        "id": "B",
+        "text": "146"
+      },
+      {
+        "id": "C",
+        "text": "194"
+      },
+      {
+        "id": "D",
+        "text": "162"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Each term is multiplied by 3; the next term is 162.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_026",
+    "category": "number-series",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What comes next: 25, 36, 49, 64? (set number-series hard 26)",
+    "options": [
+      {
+        "id": "A",
+        "text": "89"
+      },
+      {
+        "id": "B",
+        "text": "73"
+      },
+      {
+        "id": "C",
+        "text": "97"
+      },
+      {
+        "id": "D",
+        "text": "81"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 81.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_027",
+    "category": "number-series",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What comes next: 512, 729, 1000, 1331? (set number-series hard 27)",
+    "options": [
+      {
+        "id": "A",
+        "text": "1901"
+      },
+      {
+        "id": "B",
+        "text": "1555"
+      },
+      {
+        "id": "C",
+        "text": "2074"
+      },
+      {
+        "id": "D",
+        "text": "1728"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 1728.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_028",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 12, 18, 24, 30, 36? (set number-series hard 28)",
+    "options": [
+      {
+        "id": "A",
+        "text": "42"
+      },
+      {
+        "id": "B",
+        "text": "46"
+      },
+      {
+        "id": "C",
+        "text": "38"
+      },
+      {
+        "id": "D",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The constant difference is 6; the next term is 42.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_029",
+    "category": "number-series",
+    "topic": "second-differences",
+    "difficulty": "hard",
+    "question": "What comes next: 37, 50, 65, 82? (set number-series hard 29)",
+    "options": [
+      {
+        "id": "A",
+        "text": "111"
+      },
+      {
+        "id": "B",
+        "text": "91"
+      },
+      {
+        "id": "C",
+        "text": "121"
+      },
+      {
+        "id": "D",
+        "text": "101"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 101.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_030",
+    "category": "number-series",
+    "topic": "alternating-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 2, 4, 4, 8, 6? (set number-series hard 30)",
+    "options": [
+      {
+        "id": "A",
+        "text": "14"
+      },
+      {
+        "id": "B",
+        "text": "10"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 12.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_031",
+    "category": "number-series",
+    "topic": "mixed-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 13, 27, 55? (set number-series hard 31)",
+    "options": [
+      {
+        "id": "A",
+        "text": "122"
+      },
+      {
+        "id": "B",
+        "text": "100"
+      },
+      {
+        "id": "C",
+        "text": "133"
+      },
+      {
+        "id": "D",
+        "text": "111"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 111.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_032",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 10, 18, 26, 34, 42? (set number-series hard 32)",
+    "options": [
+      {
+        "id": "A",
+        "text": "50"
+      },
+      {
+        "id": "B",
+        "text": "55"
+      },
+      {
+        "id": "C",
+        "text": "45"
+      },
+      {
+        "id": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The common difference is 8; the next term is 50.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_033",
+    "category": "number-series",
+    "topic": "geometric-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 5, 10, 20, 40? (set number-series hard 33)",
+    "options": [
+      {
+        "id": "A",
+        "text": "88"
+      },
+      {
+        "id": "B",
+        "text": "72"
+      },
+      {
+        "id": "C",
+        "text": "96"
+      },
+      {
+        "id": "D",
+        "text": "80"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Each term is multiplied by 2; the next term is 80.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_034",
+    "category": "number-series",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What comes next: 169, 196, 225, 256? (set number-series hard 34)",
+    "options": [
+      {
+        "id": "A",
+        "text": "318"
+      },
+      {
+        "id": "B",
+        "text": "260"
+      },
+      {
+        "id": "C",
+        "text": "347"
+      },
+      {
+        "id": "D",
+        "text": "289"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 289.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_035",
+    "category": "number-series",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What comes next: 8, 27, 64, 125? (set number-series hard 35)",
+    "options": [
+      {
+        "id": "A",
+        "text": "238"
+      },
+      {
+        "id": "B",
+        "text": "194"
+      },
+      {
+        "id": "C",
+        "text": "260"
+      },
+      {
+        "id": "D",
+        "text": "216"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 216.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_036",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 8, 10, 12, 14, 16? (generated variation 36) (set number-series hard 36)",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The constant difference is 2; the next term is 18.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_037",
+    "category": "number-series",
+    "topic": "second-differences",
+    "difficulty": "hard",
+    "question": "What comes next: 5, 10, 17, 26? (generated variation 37) (set number-series hard 37)",
+    "options": [
+      {
+        "id": "A",
+        "text": "55"
+      },
+      {
+        "id": "B",
+        "text": "45"
+      },
+      {
+        "id": "C",
+        "text": "60"
+      },
+      {
+        "id": "D",
+        "text": "50"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 50.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_038",
+    "category": "number-series",
+    "topic": "alternating-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 5, 10, 7, 14, 9? (set number-series hard 38)",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "22"
+      },
+      {
+        "id": "D",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 18.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_039",
+    "category": "number-series",
+    "topic": "mixed-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 7, 15, 31, 63? (set number-series hard 39)",
+    "options": [
+      {
+        "id": "A",
+        "text": "140"
+      },
+      {
+        "id": "B",
+        "text": "114"
+      },
+      {
+        "id": "C",
+        "text": "153"
+      },
+      {
+        "id": "D",
+        "text": "127"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 127.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_040",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 13, 20, 27, 34? (set number-series hard 40)",
+    "options": [
+      {
+        "id": "A",
+        "text": "41"
+      },
+      {
+        "id": "B",
+        "text": "45"
+      },
+      {
+        "id": "C",
+        "text": "37"
+      },
+      {
+        "id": "D",
+        "text": "49"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The common difference is 7; the next term is 41.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_041",
+    "category": "number-series",
+    "topic": "geometric-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 3, 12, 48, 192? (set number-series hard 41)",
+    "options": [
+      {
+        "id": "A",
+        "text": "845"
+      },
+      {
+        "id": "B",
+        "text": "691"
+      },
+      {
+        "id": "C",
+        "text": "922"
+      },
+      {
+        "id": "D",
+        "text": "768"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Each term is multiplied by 4; the next term is 768.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_042",
+    "category": "number-series",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What comes next: 81, 100, 121, 144? (generated variation 42) (set number-series hard 42)",
+    "options": [
+      {
+        "id": "A",
+        "text": "61.96148139681572"
+      },
+      {
+        "id": "B",
+        "text": "49.96148139681572"
+      },
+      {
+        "id": "C",
+        "text": "67.96148139681571"
+      },
+      {
+        "id": "D",
+        "text": "55.96148139681572"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 55.96148139681572.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_043",
+    "category": "number-series",
+    "topic": "cubes",
+    "difficulty": "hard",
+    "question": "What comes next: 27, 64, 125, 216? (set number-series hard 43)",
+    "options": [
+      {
+        "id": "A",
+        "text": "377"
+      },
+      {
+        "id": "B",
+        "text": "309"
+      },
+      {
+        "id": "C",
+        "text": "411"
+      },
+      {
+        "id": "D",
+        "text": "343"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 343.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_044",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 10, 14, 18, 22, 26? (generated variation 44) (set number-series hard 44)",
+    "options": [
+      {
+        "id": "A",
+        "text": "30"
+      },
+      {
+        "id": "B",
+        "text": "33"
+      },
+      {
+        "id": "C",
+        "text": "27"
+      },
+      {
+        "id": "D",
+        "text": "36"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The constant difference is 4; the next term is 30.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_045",
+    "category": "number-series",
+    "topic": "second-differences",
+    "difficulty": "hard",
+    "question": "What comes next: 17, 26, 37, 50? (generated variation 45) (set number-series hard 45)",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "26"
+      },
+      {
+        "id": "D",
+        "text": "22"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 22.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_046",
+    "category": "number-series",
+    "topic": "alternating-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 3, 6, 5, 10, 7? (set number-series hard 46)",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 14.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_047",
+    "category": "number-series",
+    "topic": "mixed-pattern",
+    "difficulty": "hard",
+    "question": "What comes next: 8, 17, 35, 71? (set number-series hard 47)",
+    "options": [
+      {
+        "id": "A",
+        "text": "157"
+      },
+      {
+        "id": "B",
+        "text": "129"
+      },
+      {
+        "id": "C",
+        "text": "171"
+      },
+      {
+        "id": "D",
+        "text": "143"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 143.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_048",
+    "category": "number-series",
+    "topic": "arithmetic-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 2, 8, 14, 20, 26? (set number-series hard 48)",
+    "options": [
+      {
+        "id": "A",
+        "text": "32"
+      },
+      {
+        "id": "B",
+        "text": "35"
+      },
+      {
+        "id": "C",
+        "text": "29"
+      },
+      {
+        "id": "D",
+        "text": "38"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The common difference is 6; the next term is 32.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_049",
+    "category": "number-series",
+    "topic": "geometric-progression",
+    "difficulty": "hard",
+    "question": "What comes next: 6, 18, 54, 162? (set number-series hard 49)",
+    "options": [
+      {
+        "id": "A",
+        "text": "535"
+      },
+      {
+        "id": "B",
+        "text": "437"
+      },
+      {
+        "id": "C",
+        "text": "584"
+      },
+      {
+        "id": "D",
+        "text": "486"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Each term is multiplied by 3; the next term is 486.",
+    "source": "generated",
+    "verified": true
+  },
+  {
+    "id": "series_hard_050",
+    "category": "number-series",
+    "topic": "squares",
+    "difficulty": "hard",
+    "question": "What comes next: 25, 36, 49, 64? (generated variation 50) (set number-series hard 50)",
+    "options": [
+      {
+        "id": "A",
+        "text": "72.14213562373095"
+      },
+      {
+        "id": "B",
+        "text": "58.14213562373095"
+      },
+      {
+        "id": "C",
+        "text": "79.14213562373095"
+      },
+      {
+        "id": "D",
+        "text": "65.14213562373095"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern continues to give 65.14213562373095.",
+    "source": "generated",
+    "verified": true
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "bankVersion": "1.0.0",
+  "status": "phase-5-verified",
+  "totalQuestions": 600,
+  "categories": [
+    "mental-maths",
+    "number-series",
+    "logical-reasoning",
+    "quantitative-aptitude"
+  ],
+  "difficulties": [
+    "easy",
+    "medium",
+    "hard"
+  ],
+  "expectedCounts": {
+    "mental-maths": {
+      "easy": 50,
+      "medium": 50,
+      "hard": 50
+    },
+    "number-series": {
+      "easy": 50,
+      "medium": 50,
+      "hard": 50
+    },
+    "logical-reasoning": {
+      "easy": 50,
+      "medium": 50,
+      "hard": 50
+    },
+    "quantitative-aptitude": {
+      "easy": 50,
+      "medium": 50,
+      "hard": 50
+    }
+  }
+}
